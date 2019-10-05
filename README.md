@@ -1,5 +1,30 @@
 # Jetpack.js
 
+To use this simply download this library and add this to the `<head>` element of your HTML page:
+
+```html
+<!-- Jetpack -->
+<script src="libs/jetpack.core.js"></script>
+<script src="libs/jetpack.object.js"></script>
+<script src="libs/jetpack.array.js"></script>
+<script src="libs/jetpack.array.number.js"></script>
+<script src="libs/jetpack.array.object.js"></script>
+<script src="libs/jetpack.number.js"></script>
+<script src="libs/jetpack.string.js"></script>
+```
+
+You can now use these extension methods from any of your variables all across your JS app!
+
+### Compatibility
+
+Jetpack is compatible with:
+
+- AngularJS
+- Angular 8
+- Bootstrap
+- jQuery
+- Vue.js
+
 ### Extensions
 
 Extension methods for Strings:
