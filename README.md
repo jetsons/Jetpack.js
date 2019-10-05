@@ -1,6 +1,6 @@
 # Jetpack.js
 
-To use this simply download this library and add this to the `<head>` element of your HTML page:
+To use this simply download this library and add the packs you need to the `<head>` of your page:
 
 ```html
 <!-- Jetpack -->
