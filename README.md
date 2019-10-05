@@ -45,7 +45,6 @@ Extension methods for Objects:
 - any.**isString**
 - any.**isBoolean**
 - any.**deepClone**
-- any.**deepMergeSum_Object**
 - any.**cleanBadProps**
 
 Extension methods for Arrays:
